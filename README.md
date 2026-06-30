@@ -68,7 +68,4 @@
 ---
 
 ### Contact
-
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)
-- Portfolio: [Your Portfolio](https://yourdomain.com)
-- Email: your.email@example.com
+- Email: svs.bandi@gmail.com
