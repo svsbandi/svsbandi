@@ -30,45 +30,63 @@
 
 ### Featured Projects
 
-#### 1. Mobile App Project
-**What it does:** Briefly describe the app and the problem it solves.  
-**Tech:** React Native, Expo, Firebase  
-**Highlights:** Authentication, database, push notifications, offline support.
+#### 1. Home-hub
 
-#### 2. Desktop Tool Project
-**What it does:** Briefly describe the Electron app and who uses it.  
-**Tech:** Electron, Node.js, SQLite/Firebase  
-**Highlights:** Cross-platform UI, local storage, automation.
+**What it is:** A TypeScript-based home management hub that brings together key tools and utilities in one place.  
+**Tech:** TypeScript.  
+**Repo:** [Home-hub](https://github.com/svsbandi/Home-hub)
 
-#### 3. AI Automation Project
-**What it does:** Briefly describe the AI workflow or tool.  
-**Tech:** Python, JavaScript, Gemini/Claude/OpenAI APIs  
-**Highlights:** Prompting, automation, document processing, content generation.
+#### 2. AIreels-TG – AI reels toolkit
 
+**What it is:** AI-powered video creativity for modern storytellers, focused on streamlining the creation and management of reels-style content.  
+**Tech:** HTML, JavaScript, AI tooling.  
+**Repo:** [AIreels-TG](https://github.com/svsbandi/AIreels-TG)
+
+#### 3. NutriSmart-Planner
+
+**What it is:** A smart nutrition planner that helps users plan meals and track their intake with a clean TypeScript codebase.  
+**Tech:** TypeScript.  
+**Repo:** [NutriSmart-Planner](https://github.com/svsbandi/NutriSmart-Planner)
+
+#### 4. TaskmasterAI
+
+**What it is:** An AI-augmented task management tool that experiments with automating and prioritizing daily work.  
+**Tech:** TypeScript, modern frontend tooling.  
+**Repo:** [TaskmasterAI](https://github.com/svsbandi/TaskmasterAI)
+
+#### 5. AI-Mileage-Tracker
+
+**What it is:** A mileage tracker that explores AI-assisted logging and analysis for trips and fuel usage.  
+**Tech:** TypeScript.  
+**Repo:** [AI-Mileage-Tracker](https://github.com/svsbandi/AI-Mileage-Tracker)
+
+#### 6. To_DO_LIST (React Native)
+
+**What it is:** A simple, clean to-do list app showcasing React Native patterns plus Firebase-friendly architecture.  
+**Tech:** JavaScript, React Native.  
+**Repo:** [To_DO_LIST](https://github.com/svsbandi/To_DO_LIST)
+
+
+### Finance & Analytics Projects
+
+- [Options-Trading-Guide](https://github.com/svsbandi/Options-Trading-Guide) – Beginner-friendly guide to options trading strategies and risk.[page:13]  
+- [BudegetFlow](https://github.com/svsbandi/BudegetFlow) – TypeScript-based cash-flow and budgeting helper.[page:13]  
+- [emi-calculator](https://github.com/svsbandi/emi-calculator) – EMI calculator utility in TypeScript.[page:13]  
+- [options-calculator](https://github.com/svsbandi/options-calculator) – Web-based options calculator in HTML.[page:13]
 ---
-
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svsbandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svsbandi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+ 
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=svsbandi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### Current Focus
-
-- Improving full-stack app architecture.
-- Building AI-assisted productivity tools.
-- Creating polished mobile and desktop experiences.
-
 ---
 
 ### Contact
